@@ -15,9 +15,7 @@ This repository contains the **working front-end prototype (React + Vite)** buil
 | **Problem Statement** | AI-Enabled Career Counselling and Family Decision-Support Platform for Vocational Education |
 | **Theme / Category** | Smart Education / Software |
 | **Team** | Innovent |
-| **Team ID** | _[add from SIH portal]_ |
-| **Explanation video** | _[paste video link]_ |
-| **Live prototype** | _[paste prototype link]_ |
+| **Live prototype** | https://nextlume-prototype.netlify.app/ |
 
 > **Prototype notice.** All data, "AI" replies, salaries, costs, confidence scores and outcome figures in this prototype are simulated or illustrative. There is no backend, no real authentication and no real language model. Do not enter real personal details.
 
