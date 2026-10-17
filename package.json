@@ -1,0 +1,23 @@
+{
+  "name": "nextlume",
+  "private": true,
+  "version": "1.0.0",
+  "description": "NextLume – From parental doubt to career confidence (SIH 2026 prototype)",
+  "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
